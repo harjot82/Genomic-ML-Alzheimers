@@ -97,4 +97,4 @@ Future extensions of this work may include:
 ## 👩‍💻 Author
 
 Harjot Kaur  
-LinkedIn: https://www.linkedin.com/in/harjot-k-ba497b209
+LinkedIn: https://www.linkedin.com/in/harjot-kaur-ba497b209/
